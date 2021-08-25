@@ -1,0 +1,8 @@
+Start state
+T3 T6 T4
+B T1 T2
+T8 T7 T5
+Goal state
+T1 T2 T3
+T8 B T4
+T7 T6 T5
